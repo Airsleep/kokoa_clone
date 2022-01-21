@@ -1,3 +1,3 @@
 # Kokoa Clone 2020
 
-with k_osa's help
+with k_osa's help :D
